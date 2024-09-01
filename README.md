@@ -18,6 +18,8 @@ sudo ./run.sh
 
 ```
 
+## Run test program 
+
 ```bash
 
 cd /tests/simple_adder
