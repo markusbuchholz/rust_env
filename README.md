@@ -37,3 +37,4 @@ rustc simple_adder.rs
 ## Links
 
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Rust wiki](https://en.wikipedia.org/wiki/Rust_(programming_language))
