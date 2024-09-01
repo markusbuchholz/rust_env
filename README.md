@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0ea8b786-2cb8-4ed5-9ec4-49cffe4aeed7)
+![image](https://github.com/user-attachments/assets/2cb3a910-9b5d-4b74-a8d4-fab0f5eafb78)
 
 
 # Rust environment 
